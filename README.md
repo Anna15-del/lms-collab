@@ -1,1 +1,1 @@
-# LMS Collab – Library Management System (Team 6)
+# LMS Collab – Library Management System (Team 6) – S7 CSE Lab Project
